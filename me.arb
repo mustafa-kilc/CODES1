@@ -16,5 +16,3 @@ if delta.round >= 0.0
 else
   puts 'Çözüm yok'
 end
-
-my love
